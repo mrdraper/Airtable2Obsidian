@@ -24,3 +24,7 @@ TABLE_NAMES = ['tables_here_as_list']
 ```
 
 Also, in order to provide the linkage between records, the script now assumes that each record has a column called 'Title'. If this is not the case for your Airtable, either change the Airtable or change this in the code (`fields.Title`).
+
+## Note
+> [!WARNING]
+> This project was made for my own use and works fine for my own use. It is no guarantee it might work for you, but it might help and save you time in figuring out your own solution.
